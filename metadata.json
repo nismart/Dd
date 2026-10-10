@@ -1,0 +1,6 @@
+{
+  "name": "NisKart – Madhya Pradesh",
+  "description": "Authentic Indian e-commerce shopping platform for Madhya Pradesh offering local specialities, textiles, groceries and electronics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,472 @@
+{
+  "products": [
+    {
+      "id": "prod-101",
+      "productId": "NISU-101",
+      "name": "Royal Chanderi Silk Saree with Gold Zari Border",
+      "description": "Authentic royal emerald green Chanderi silk saree handcrafted in Ashoknagar MP. Adorned with traditional floral butis and rich gold zari border. Comes with matching blouse piece.",
+      "sellingPrice": 2499,
+      "originalPrice": 4999,
+      "mainImage": "/src/assets/images/chanderi_silk_saree_1791567774256.jpg",
+      "images": [
+        "/src/assets/images/chanderi_silk_saree_1791567774256.jpg",
+        "/src/assets/images/niskart_hero_banner_1791567763130.jpg"
+      ],
+      "categoryTag": "handloom-sarees",
+      "isAvailable": true,
+      "createdAt": "2026-03-01T10:00:00Z",
+      "specifications": {
+        "Fabric": "Pure Chanderi Silk with Natural Sheen",
+        "Zari Work": "Gold Metallic Zari Border & Floral Butis",
+        "Origin": "Ashoknagar & Chanderi, Madhya Pradesh",
+        "Includes": "Saree (5.5m) + Unstitched Blouse Piece (0.8m)",
+        "Care Instructions": "Dry Clean Recommended"
+      }
+    },
+    {
+      "id": "prod-102",
+      "productId": "NISU-102",
+      "name": "Authentic Ujjaini & Ratlami Laung Sev (500g)",
+      "description": "The world-famous Ratlami Sev prepared with premium gram flour, pungent clove (laung), black pepper, and secret Malwa spices. Extra crisp, aromatic, and authentically spiced.",
+      "sellingPrice": 199,
+      "originalPrice": 260,
+      "mainImage": "/src/assets/images/ratlami_sev_namkeen_1791567785574.jpg",
+      "images": [
+        "/src/assets/images/ratlami_sev_namkeen_1791567785574.jpg"
+      ],
+      "categoryTag": "namkeen-snacks",
+      "isAvailable": true,
+      "createdAt": "2026-03-02T11:00:00Z",
+      "specifications": {
+        "Net Weight": "500 Grams",
+        "Key Ingredients": "Besan (Gram Flour), Pure Clove (Laung), Black Pepper, Asafoetida",
+        "Origin": "Ratlam & Ujjain, Madhya Pradesh",
+        "Shelf Life": "90 Days from Packaging",
+        "Dietary": "100% Vegetarian, No Artificial Preservatives"
+      }
+    },
+    {
+      "id": "prod-103",
+      "productId": "NISU-103",
+      "name": "Premium MP Sehore Sharbati Gehu / Wheat (5kg)",
+      "description": "Hand-picked golden Sharbati wheat grown in the black soil of Sehore, Madhya Pradesh. Known as the Golden Grain of India, it yields extra soft, sweet, and fluffy rotis.",
+      "sellingPrice": 420,
+      "originalPrice": 520,
+      "mainImage": "/src/assets/images/sehore_sharbati_wheat_1791567799163.jpg",
+      "images": [
+        "/src/assets/images/sehore_sharbati_wheat_1791567799163.jpg"
+      ],
+      "categoryTag": "spices-grains",
+      "isAvailable": true,
+      "createdAt": "2026-03-03T12:00:00Z",
+      "specifications": {
+        "Net Weight": "5 Kilograms",
+        "Grain Variety": "Authentic Golden Sharbati Wheat (Single-Origin)",
+        "Origin": "Sehore District, Madhya Pradesh",
+        "Moisture Content": "Less than 11.5%",
+        "Characteristics": "Yields Extra Soft, Naturally Sweet Rotis"
+      }
+    },
+    {
+      "id": "prod-104",
+      "productId": "NISU-104",
+      "name": "Bagli Shuddh Desi Cow A2 Bilona Ghee (1 Litre)",
+      "description": "Pure Vedic A2 Bilona Ghee prepared traditionally from grass-fed Desi cows in Bagli, Dewas district. Rich in granular texture (danedaar), golden color, and divine aroma.",
+      "sellingPrice": 1350,
+      "originalPrice": 1600,
+      "mainImage": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=600&auto=format&fit=crop&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=600&auto=format&fit=crop&q=80"
+      ],
+      "categoryTag": "daily-essentials",
+      "isAvailable": true,
+      "createdAt": "2026-03-04T09:00:00Z",
+      "specifications": {
+        "Net Volume": "1 Litre",
+        "Method": "Traditional Vedic Bilona Churning",
+        "Source": "Free-grazing Indigenous Desi Cows",
+        "Origin": "Bagli, Dewas District, Madhya Pradesh",
+        "Texture": "Danedaar (Granular Golden Ghee)"
+      }
+    },
+    {
+      "id": "prod-105",
+      "productId": "NISU-105",
+      "name": "Indore Famous Jeeravan Powder & Garadu Masala Combo",
+      "description": "The iconic Indori Jeeravan taste! Perfect sprinkler for Poha, Sev, Fruits, Curd, and Garadu. Blend of 21 digestive Ayurvedic spices crafted in Sarafa Bazar.",
+      "sellingPrice": 175,
+      "originalPrice": 240,
+      "mainImage": "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=600&auto=format&fit=crop&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=600&auto=format&fit=crop&q=80"
+      ],
+      "categoryTag": "spices-grains",
+      "isAvailable": true,
+      "createdAt": "2026-03-05T14:30:00Z",
+      "specifications": {
+        "Net Weight": "200g (Pack of 2)",
+        "Key Ingredients": "Jeera, Clove, Dry Mango, Black Salt, Malwa Hing",
+        "Origin": "Indore (Sarafa Bazar), Madhya Pradesh",
+        "Culinary Use": "Iconic Sprinkler for Indori Poha, Sev, Garadu"
+      }
+    },
+    {
+      "id": "prod-106",
+      "productId": "NISU-106",
+      "name": "Handcrafted Brass Peacock Deepam from Tikamgarh",
+      "description": "Heavy solid brass traditional oil lamp with peacock arch handcrafted by artisans of Tikamgarh and Dewas. High polish finish, eternal design for festive prayer.",
+      "sellingPrice": 890,
+      "originalPrice": 1250,
+      "mainImage": "https://images.unsplash.com/photo-1608096299210-db7e38487075?w=600&auto=format&fit=crop&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1608096299210-db7e38487075?w=600&auto=format&fit=crop&q=80"
+      ],
+      "categoryTag": "handicrafts",
+      "isAvailable": true,
+      "createdAt": "2026-03-06T15:00:00Z",
+      "specifications": {
+        "Material": "Solid Cast Bell Brass (High Polish)",
+        "Height & Weight": "10 Inches / 1.25 Kilograms",
+        "Craftsmanship": "Hand-cast by Master Dhokra/Brass Artisans",
+        "Origin": "Tikamgarh & Dewas, Madhya Pradesh"
+      }
+    },
+    {
+      "id": "prod-107",
+      "productId": "NISU-107",
+      "name": "Dewas Pure Kachi Ghani Mustard Oil (1 Litre Bottle)",
+      "description": "Cold pressed whole mustard oil extracted traditionally in Dewas. Rich natural pungency, 100% unadulterated, cholesterol-free cooking oil.",
+      "sellingPrice": 185,
+      "originalPrice": 220,
+      "mainImage": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=600&auto=format&fit=crop&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=600&auto=format&fit=crop&q=80"
+      ],
+      "categoryTag": "daily-essentials",
+      "isAvailable": true,
+      "createdAt": "2026-03-07T11:00:00Z",
+      "specifications": {
+        "Net Volume": "1 Litre Glass/Pet Bottle",
+        "Extraction": "Wood Cold-Pressed (Kachi Ghani)",
+        "Seeds": "100% Non-GMO Black Mustard Seeds",
+        "Origin": "Dewas District, Madhya Pradesh"
+      }
+    },
+    {
+      "id": "prod-108",
+      "productId": "NISU-108",
+      "name": "Hatpipliya Special Roasted Gram (Bhuna Chana with Hing)",
+      "description": "Crisp wood-roasted desi chana tossed with pure Malwa compounded asafoetida and black salt. Healthy protein snack, low glycemic index.",
+      "sellingPrice": 140,
+      "originalPrice": 190,
+      "mainImage": "https://images.unsplash.com/photo-1514733670139-4d87a1941d55?w=600&auto=format&fit=crop&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1514733670139-4d87a1941d55?w=600&auto=format&fit=crop&q=80"
+      ],
+      "categoryTag": "namkeen-snacks",
+      "isAvailable": true,
+      "createdAt": "2026-03-08T13:00:00Z",
+      "specifications": {
+        "Net Weight": "400 Grams",
+        "Ingredients": "Wood-Roasted Desi Chana, Malwa Hing, Black Salt",
+        "Origin": "Hatpipliya, Dewas District, Madhya Pradesh",
+        "Health Benefits": "Rich in Plant Protein & Dietary Fiber"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "id": "cat-1",
+      "title": "Handloom Sarees",
+      "tag": "handloom-sarees",
+      "image": "/src/assets/images/chanderi_silk_saree_1791567774256.jpg",
+      "displayOrder": 1
+    },
+    {
+      "id": "cat-2",
+      "title": "Namkeen & Snacks",
+      "tag": "namkeen-snacks",
+      "image": "/src/assets/images/ratlami_sev_namkeen_1791567785574.jpg",
+      "displayOrder": 2
+    },
+    {
+      "id": "cat-3",
+      "title": "Spices & Grains",
+      "tag": "spices-grains",
+      "image": "/src/assets/images/sehore_sharbati_wheat_1791567799163.jpg",
+      "displayOrder": 3
+    },
+    {
+      "id": "cat-4",
+      "title": "Daily Essentials",
+      "tag": "daily-essentials",
+      "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=300&auto=format&fit=crop&q=80",
+      "displayOrder": 4
+    },
+    {
+      "id": "cat-5",
+      "title": "Handicrafts & Decor",
+      "tag": "handicrafts",
+      "image": "https://images.unsplash.com/photo-1608096299210-db7e38487075?w=300&auto=format&fit=crop&q=80",
+      "displayOrder": 5
+    }
+  ],
+  "banners": [
+    {
+      "id": "ban-1",
+      "title": "Celebrate Madhya Pradesh: The Heart of India",
+      "subtitle": "Festive Discounts Up to 50% Off on Pure Chanderi, Malwa Spices & Handcrafts",
+      "badge": "Festive Special",
+      "image": "/src/assets/images/niskart_hero_banner_1791567763130.jpg",
+      "displayOrder": 1,
+      "tag": "handloom-sarees",
+      "ctaText": "Explore Collection"
+    },
+    {
+      "id": "ban-2",
+      "title": "Authentic Ratlami Sev & Malwa Namkeen Feast",
+      "subtitle": "Freshly packed crisp snacks straight from Ratlam, Indore, and Dewas to your doorstep",
+      "badge": "Best Seller",
+      "image": "/src/assets/images/ratlami_sev_namkeen_1791567785574.jpg",
+      "displayOrder": 2,
+      "tag": "namkeen-snacks",
+      "ctaText": "Shop Namkeen"
+    },
+    {
+      "id": "ban-3",
+      "title": "Pure Sehore Sharbati Wheat & A2 Bilona Ghee",
+      "subtitle": "100% Natural Farm Sourced Staple Foods with Express Local Delivery in MP",
+      "badge": "Farm Fresh",
+      "image": "/src/assets/images/sehore_sharbati_wheat_1791567799163.jpg",
+      "displayOrder": 3,
+      "tag": "spices-grains",
+      "ctaText": "Order Essentials"
+    }
+  ],
+  "paymentSettings": {
+    "upiId": "7772809503@paytm",
+    "upiQrImage": "",
+    "onlinePaymentEnabled": true,
+    "web3FormsKey": "c90b512b-7220-4890-a53f-c3a1174f060c",
+    "codFee": 50,
+    "upiDiscount": 50,
+    "notificationEmail": "nishaldamor08@gmail.com",
+    "targetEmail": "nishaldamor08@gmail.com"
+  },
+  "customers": [
+    {
+      "id": "cust-1791596249455",
+      "fullName": "NISHAL damor",
+      "mobile": "7772809503",
+      "passwordHash": "3d5782ef68afe27b503388e92df27e462efdfcfa27eca1241c77d4a7ab911e1a786159cc39e110e8ad559faa55e93768fa2bb7d5446747bd448033b3c73c5f00",
+      "salt": "e08e04bad7eab303cd284f9c0ec4b878",
+      "createdAt": "2026-10-10T01:37:29.455Z"
+    },
+    {
+      "id": "cust-1791600867363",
+      "fullName": "Pooja Verma",
+      "mobile": "9823456789",
+      "passwordHash": "f6eea522978d625953e3eaf6a1f0cb461f874442b77d6ba68747b103467c0e33f363fbd229bfa8260cfccbe45c6dbc7cd9f2fcee1b3e3e29362c98649e91570e",
+      "salt": "7ee26b07a1fb223030291849ae7499b4",
+      "isEmailVerified": false,
+      "createdAt": "2026-10-10T02:54:27.363Z"
+    },
+    {
+      "id": "cust-1791600888332",
+      "fullName": "Anjali Sharma",
+      "mobile": "9811223344",
+      "email": "anjali@example.com",
+      "passwordHash": "f3e019f2a15949cb823ebaa30107832ed7b4db86121fadc60c9cfa814cb8435374eef716e2b6caffc68427d352f5f58a56e645cf91815c4f2d97a23b7179fa03",
+      "salt": "09f353678780d96a55cc4b5ef157cd6a",
+      "isEmailVerified": false,
+      "createdAt": "2026-10-10T02:54:48.332Z"
+    }
+  ],
+  "orders": [
+    {
+      "id": "ord-1791600862889",
+      "orderNumber": "NIS-2026-60666",
+      "customerId": null,
+      "customerName": "Rahul Sharma",
+      "mobile": "9876543210",
+      "email": "test@example.com",
+      "city": "Indore",
+      "pincode": "452010",
+      "houseDetails": "Flat 402, Royal Palms",
+      "roadArea": "Vijay Nagar Scheme 54",
+      "state": "Madhya Pradesh",
+      "items": [
+        {
+          "productId": "NISU-101",
+          "name": "Royal Chanderi Silk Saree with Gold Zari Border",
+          "price": 2499,
+          "quantity": 1,
+          "image": "/src/assets/images/chanderi_silk_saree_1791567774256.jpg"
+        }
+      ],
+      "baseSubtotal": 2499,
+      "paymentAdjustment": 50,
+      "finalAmount": 2549,
+      "paymentMethod": "COD",
+      "paymentVerificationStatus": "NOT_APPLICABLE",
+      "status": "Pending",
+      "emailNotificationSent": false,
+      "createdAt": "2026-10-10T02:54:22.889Z",
+      "updatedAt": "2026-10-10T02:54:22.889Z",
+      "emailNotificationError": "Forbidden"
+    },
+    {
+      "id": "ord-1791600571946",
+      "orderNumber": "NIS-2026-60714",
+      "customerId": null,
+      "customerName": "Nisumart",
+      "mobile": "7772806503",
+      "alternateMobile": "4664645464",
+      "city": "Dewas",
+      "pincode": "455001",
+      "houseDetails": "Nevir",
+      "roadArea": "Dewas",
+      "state": "Madhya Pradesh",
+      "items": [
+        {
+          "productId": "NISU-101",
+          "name": "Royal Chanderi Silk Saree with Gold Zari Border",
+          "price": 2499,
+          "quantity": 3,
+          "image": "/src/assets/images/chanderi_silk_saree_1791567774256.jpg"
+        }
+      ],
+      "baseSubtotal": 7497,
+      "paymentAdjustment": 50,
+      "finalAmount": 7547,
+      "paymentMethod": "COD",
+      "paymentVerificationStatus": "NOT_APPLICABLE",
+      "status": "Pending",
+      "emailNotificationSent": false,
+      "createdAt": "2026-10-10T02:49:31.946Z",
+      "updatedAt": "2026-10-10T02:49:31.946Z",
+      "emailNotificationError": "Forbidden"
+    },
+    {
+      "id": "ord-1791599737709",
+      "orderNumber": "NIS-2026-76720",
+      "customerId": null,
+      "customerName": "Damor Ji",
+      "mobile": "4746645466",
+      "alternateMobile": "4649946465",
+      "city": "Dewas",
+      "pincode": "455001",
+      "houseDetails": "Nevri dewas mp",
+      "roadArea": "Dewas rode bhopal choraha",
+      "state": "Madhya Pradesh",
+      "items": [
+        {
+          "productId": "NISU-107",
+          "name": "Dewas Pure Kachi Ghani Mustard Oil (1 Litre Bottle)",
+          "price": 185,
+          "quantity": 1,
+          "image": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=600&auto=format&fit=crop&q=80"
+        },
+        {
+          "productId": "NISU-102",
+          "name": "Authentic Ujjaini & Ratlami Laung Sev (500g)",
+          "price": 199,
+          "quantity": 3,
+          "image": "/src/assets/images/ratlami_sev_namkeen_1791567785574.jpg"
+        },
+        {
+          "productId": "NISU-101",
+          "name": "Royal Chanderi Silk Saree with Gold Zari Border",
+          "price": 2499,
+          "quantity": 3,
+          "image": "/src/assets/images/chanderi_silk_saree_1791567774256.jpg"
+        }
+      ],
+      "baseSubtotal": 8279,
+      "paymentAdjustment": 50,
+      "finalAmount": 8329,
+      "paymentMethod": "COD",
+      "paymentVerificationStatus": "NOT_APPLICABLE",
+      "status": "Pending",
+      "emailNotificationSent": false,
+      "createdAt": "2026-10-10T02:35:37.709Z",
+      "updatedAt": "2026-10-10T02:35:37.709Z",
+      "emailNotificationError": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
+    },
+    {
+      "id": "ord-1791596153568",
+      "orderNumber": "NIS-2026-41966",
+      "customerId": null,
+      "customerName": "Damor Ji",
+      "mobile": "7772809503",
+      "alternateMobile": "9575345768",
+      "city": "Dewas",
+      "pincode": "455001",
+      "houseDetails": "Nevri dewas mp",
+      "roadArea": "Dewas rode",
+      "state": "Madhya Pradesh",
+      "items": [
+        {
+          "productId": "NISU-101",
+          "name": "Royal Chanderi Silk Saree with Gold Zari Border",
+          "price": 2499,
+          "quantity": 1,
+          "image": "/src/assets/images/chanderi_silk_saree_1791567774256.jpg"
+        },
+        {
+          "productId": "NISU-103",
+          "name": "Premium MP Sehore Sharbati Gehu / Wheat (5kg)",
+          "price": 420,
+          "quantity": 1,
+          "image": "/src/assets/images/sehore_sharbati_wheat_1791567799163.jpg"
+        }
+      ],
+      "baseSubtotal": 2919,
+      "paymentAdjustment": 50,
+      "finalAmount": 2969,
+      "paymentMethod": "COD",
+      "paymentVerificationStatus": "NOT_APPLICABLE",
+      "status": "Pending",
+      "createdAt": "2026-10-10T01:35:53.568Z",
+      "updatedAt": "2026-10-10T01:35:53.568Z"
+    },
+    {
+      "id": "ord-1001",
+      "orderNumber": "NIS-2026-10082",
+      "customerId": null,
+      "customerName": "Aakash Verma",
+      "mobile": "7772809503",
+      "alternateMobile": "9826012345",
+      "city": "Dewas",
+      "pincode": "455001",
+      "houseDetails": "Flat 302, Gayatri Heights",
+      "roadArea": "Station Road, Near Chamunda Mata Mandir",
+      "state": "Madhya Pradesh",
+      "items": [
+        {
+          "productId": "NISU-102",
+          "name": "Authentic Ujjaini & Ratlami Laung Sev (500g)",
+          "price": 199,
+          "quantity": 2,
+          "image": "/src/assets/images/ratlami_sev_namkeen_1791567785574.jpg"
+        },
+        {
+          "productId": "NISU-105",
+          "name": "Indore Famous Jeeravan Powder & Garadu Masala Combo",
+          "price": 175,
+          "quantity": 1,
+          "image": "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=600&auto=format&fit=crop&q=80"
+        }
+      ],
+      "baseSubtotal": 573,
+      "paymentAdjustment": -50,
+      "finalAmount": 523,
+      "paymentMethod": "UPI",
+      "upiRef": "UPI592817293810",
+      "paymentVerificationStatus": "VERIFIED",
+      "status": "Confirmed",
+      "createdAt": "2026-03-09T08:24:00Z",
+      "updatedAt": "2026-03-09T09:10:00Z"
+    }
+  ]
+}
